@@ -46,12 +46,12 @@
  <question id="quest006">
 	<type>select multiple</type>
 		<title>¿Cuales de los siguientes son colores?</title>
-			<option>fresa</option>
-			<option>naranja</option> 
-			<option>manzana</option> 
-			<option>rojo</option>
-	<answer>2</answer>
-	<answer>4</answer>
+			<option>naranja</option>
+			<option>fresa</option> 
+			<option>rojo</option> 
+			<option>manzana</option>
+	<answer>1</answer>
+	<answer>3</answer>
  </question>
  
  <question id="quest007">
