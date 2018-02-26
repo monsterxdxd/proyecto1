@@ -36,10 +36,10 @@
  <question id="quest005">
 	<type>select multiple</type>
 		<title> ¿Cuántos meses del año tienen 28 días?</title>
-			<option>Todos</option>
-			<option>Febrero</option> 
-			<option>12 meses</option> 
-			<option>El segundo mes</option>
+			<option>Febrero</option>
+			<option>Todos</option> 
+			<option>El segundo mes</option> 
+			<option>12 meses</option>
 	<answer>0</answer>
 	<answer>2</answer>
  </question>
