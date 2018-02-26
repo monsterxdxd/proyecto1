@@ -21,7 +21,7 @@
 			<option>1</option>
 			<option>5</option> 
 			<option>8</option>
-	<answer>0</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
+	<answer>2</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
 	</question>
 	
 <question id="quest004">
