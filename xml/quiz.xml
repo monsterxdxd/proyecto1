@@ -40,8 +40,8 @@
 			<option>Todos</option> 
 			<option>El segundo mes</option> 
 			<option>12 meses</option>
-	<answer>0</answer>
 	<answer>2</answer>
+	<answer>4</answer>
  </question>
  <question id="quest006">
 	<type>select multiple</type>
