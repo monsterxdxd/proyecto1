@@ -1,3 +1,3 @@
 # proyecto1
 
-http://www.dailymotion.com/video/x6fepvn
+http://www.compciv.org/topics/bash/loops/
